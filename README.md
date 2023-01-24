@@ -4,4 +4,12 @@
 Este projeto apesar de possuir o README em três idiomas ele será sempre atualizado em português primeiro. 
 
 
-# Nome do Projeto
+# Minhas Bibliotecas de Arduino utilizadas.
+
+
+
+# Adafruit_ILI9341
+
+![plot](./images/display_3-2_ILI9341.jpg)
+  - Installed in 23/01/2023
+  - version: 1.0.5
